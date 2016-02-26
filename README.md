@@ -31,3 +31,4 @@ This a list of the different approaches we will take, in no particular order, wi
   * Others (ask Tamas)
 * Genetic interactions: Although the overlap between protein and genetic interactions is negligible, it might help identifying those predicted interactions that have higher biological interest. 
 * BioGrid data: We need to identify how much information is curated in BioGrid as well, since any predicted interaction will be prioritized down if it is already curated there. 
+* Matrix expansion of complexes in Complex Portal - modelled complexes, in particular, will be a source of additional interactions. Weight data from experimentally verified complexes and/or linked binary pairs within a complex?
